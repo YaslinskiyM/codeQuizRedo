@@ -38,7 +38,7 @@ WHEN the game is over
 THEN I can save my initials and score
 
 ## Links
-
+https://yaslinskiym.github.io/codeQuizRedo/
 
 ## Credits
 Credit to my tutor. She has been helpful in helping me understand many of the complex topics. My instructor for teaching it to us and Google/Stackoverflow when I got errors I was able to troubleshoot.
